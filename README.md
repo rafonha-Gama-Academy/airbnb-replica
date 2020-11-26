@@ -18,6 +18,8 @@ Nessa página, deve conter:
 
 Onde, os dados dos cards deverão ser exibidos através de uma requisição em API externa: 
 
+Exemplo de aplicação: https://rafonha-gama-academy.github.io/airbnb-replica/
+
 ## Instruções
 - Você deve usar apenas HTML, CSS e JavaScript para fazer essa aplicação;
 - A aplicação deve ser responsiva, ou seja, se adaptar a diferentes tamanhos de telas;
